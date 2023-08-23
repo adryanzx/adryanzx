@@ -19,13 +19,8 @@
  </div>
  
  ### Main skills:
-  <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="bt" src="https://img.shields.io/badge/Bootstrap-00004F?style=for-the-badge&logo=Bootstrap&logoColor=white" />
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-F9DB5C?style=for-the-badge&logo=PHP&logoColor=black" />
-     <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-C3D488?style=for-the-badge&logo=Vuejs&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=cs,php,mysql,git,vscode,bootstrap,vue,html,css,js">
+
    
   
  ### Studying in this moment:
