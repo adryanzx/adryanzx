@@ -24,7 +24,7 @@
    
   
  ### Studying in this moment:
- <img src="https://skillicons.dev/icons?i=react,node">
+ <img src="https://skillicons.dev/icons?i=react,nodejs">
 
 </div><br/>
 <div align="center">
