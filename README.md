@@ -19,7 +19,7 @@
  </div>
  
  ### Main skills:
-  <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode,bootstrap,vue,html,css,js,c#">
+  <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode,bootstrap,vue,html,css,js,">
 
    
   
