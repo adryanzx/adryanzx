@@ -19,12 +19,12 @@
  </div>
  
  ### Main skills:
-  <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode,bootstrap,vue,html,css,js,">
+  <img src="https://skillicons.dev/icons?i=php,mysql,git,vscode,bootstrap,vue,html,css,js,react,figma,wordpress,elementor">
 
    
   
  ### Studying in this moment:
- <img src="https://skillicons.dev/icons?i=react,nodejs">
+ <img src="https://skillicons.dev/icons?i=nodejs">
 
 </div><br/>
 <div align="center">
